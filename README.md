@@ -13,4 +13,4 @@ _I like music, and the classes I am taking include math, cybersecurity, and exce
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+_"This dude, he tripped and fell in the back of Mcdonald's!"_
