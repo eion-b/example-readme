@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm eion braxton
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_I like music, and the classes I am taking include math, cybersecurity, and excel._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
